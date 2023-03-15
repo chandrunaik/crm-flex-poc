@@ -37,6 +37,7 @@ export default {
   color: #454545;
   grid-gap: 10px;
   font-weight: 600;
+  justify-content: center;
 }
 
 .TwilioKeyboard .key {
